@@ -1,0 +1,33 @@
+input{
+    margin:10px;
+    height:30px;
+    width:180px;
+}
+body{
+    margin:150px;
+    background-image: url("C:\Users\nagur\Downloads\Grey Aesthetic Blank Background A4 Document Landscape.png");
+     /* background-repeat: no-repeat;
+    
+    background-size: cover; */
+    background-size: 100%;
+}
+h3{
+    margin:20px;
+
+}
+.custom-width{
+    width:35%;
+    margin:auto;
+}
+.custom-border{
+    border: 1px solid #b0afbc;
+    border-color:#b0afbc;
+   
+}
+a{
+  margin:20px;
+  padding:20px;
+}
+.link{
+    margin-top:10px;
+}
